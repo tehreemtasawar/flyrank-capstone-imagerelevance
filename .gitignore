@@ -1,0 +1,23 @@
+# secrets
+.env
+
+# local database and caches
+capstone.db
+*.db
+*.sqlite3
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# virtual environments
+venv/
+.venv/
+env/
+
+# generated reports (keep the .md evidence files)
+reports/*.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
