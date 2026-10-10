@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "white chest",
+    "winter",
+    "snow",
+    "side profile"
+  ],
+  "caption": "A red fox walks through deep snow in a winter forest, shown in side profile with snowy pines behind.",
+  "confidence": 0.95
+}

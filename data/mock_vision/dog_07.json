@@ -1,0 +1,13 @@
+{
+  "subject": "jack russell terrier",
+  "category": "animal",
+  "attributes": [
+    "tricolor coat",
+    "studio portrait",
+    "pink background",
+    "floppy ears",
+    "brown eyes"
+  ],
+  "caption": "A tricolor Jack Russell terrier looks calmly at the camera against a soft pink studio background.",
+  "confidence": 0.9
+}

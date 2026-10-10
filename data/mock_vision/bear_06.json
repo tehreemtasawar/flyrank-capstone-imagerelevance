@@ -1,0 +1,13 @@
+{
+  "subject": "brown bear",
+  "category": "animal",
+  "attributes": [
+    "brown",
+    "furry",
+    "close-up",
+    "portrait",
+    "wildlife"
+  ],
+  "caption": "A close-up headshot portrait of a brown bear looking directly forward.",
+  "confidence": 0.98
+}

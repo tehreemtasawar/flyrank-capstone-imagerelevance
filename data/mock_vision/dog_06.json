@@ -1,0 +1,13 @@
+{
+  "subject": "golden retriever",
+  "category": "animal",
+  "attributes": [
+    "puppy",
+    "sitting",
+    "yellow flower in mouth",
+    "paved path",
+    "wooden fence"
+  ],
+  "caption": "A golden retriever sits on a paved path holding a yellow flower in its mouth in front of a wooden fence.",
+  "confidence": 0.95
+}

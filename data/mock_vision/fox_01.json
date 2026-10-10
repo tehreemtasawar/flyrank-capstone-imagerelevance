@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "white chest",
+    "forest",
+    "sitting",
+    "dappled light"
+  ],
+  "caption": "A red fox sits among tall grass in a dark forest, its orange fur catching warm dappled sunlight.",
+  "confidence": 0.95
+}

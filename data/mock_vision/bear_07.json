@@ -1,0 +1,13 @@
+{
+  "subject": "brown bear",
+  "category": "animal",
+  "attributes": [
+    "wild",
+    "large mammal",
+    "walking",
+    "forest background",
+    "backlit"
+  ],
+  "caption": "A large brown bear walks through a clearing bordered by a pine forest.",
+  "confidence": 0.98
+}

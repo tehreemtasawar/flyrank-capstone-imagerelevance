@@ -1,0 +1,13 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "grey fur",
+    "green eyes",
+    "close-up",
+    "portrait",
+    "dark background"
+  ],
+  "caption": "A close-up portrait of a gray wolf's face with piercing green eyes against a near-black background.",
+  "confidence": 0.5
+}

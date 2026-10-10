@@ -1,0 +1,13 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "pack",
+    "howling",
+    "rocky ground",
+    "dark forest",
+    "several wolves"
+  ],
+  "caption": "A wolf pack gathers on rocky ground in a dark forest, one member howling upward while others rest around it.",
+  "confidence": 0.93
+}

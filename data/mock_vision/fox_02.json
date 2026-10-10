@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "forest",
+    "standing",
+    "alert",
+    "autumn leaves"
+  ],
+  "caption": "A red fox stands between trees in a forest, looking directly at the camera among fallen autumn leaves.",
+  "confidence": 0.96
+}

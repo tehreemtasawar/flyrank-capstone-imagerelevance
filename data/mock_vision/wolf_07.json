@@ -1,0 +1,13 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "snarling",
+    "bared teeth",
+    "side view",
+    "dark forest",
+    "aggressive"
+  ],
+  "caption": "A gray wolf snarls with its teeth bared, caught mid-growl against a dark forest backdrop.",
+  "confidence": 0.94
+}

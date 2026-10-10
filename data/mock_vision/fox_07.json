@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "kit",
+    "pair",
+    "forest",
+    "green grass"
+  ],
+  "caption": "An adult red fox and a smaller fox kit peer out together through green grass near a forest edge.",
+  "confidence": 0.85
+}

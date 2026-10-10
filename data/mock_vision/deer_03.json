@@ -1,0 +1,13 @@
+{
+  "subject": "elk",
+  "category": "animal",
+  "attributes": [
+    "large antlers",
+    "hillside",
+    "overcast",
+    "standing",
+    "coastal"
+  ],
+  "caption": "An elk with tall branching antlers stands atop a brushy hillside under an overcast sky.",
+  "confidence": 0.93
+}

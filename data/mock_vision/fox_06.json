@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "tall grass",
+    "golden hour",
+    "alert",
+    "meadow"
+  ],
+  "caption": "A red fox stands partly hidden in tall golden grass at sunset, ears perked and alert.",
+  "confidence": 0.93
+}

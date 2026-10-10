@@ -1,0 +1,13 @@
+{
+  "subject": "sika deer",
+  "category": "animal",
+  "attributes": [
+    "spotted coat",
+    "antlers",
+    "looking up",
+    "forest",
+    "daylight"
+  ],
+  "caption": "A spotted deer with short antlers tilts its head upward in a sunlit forest clearing.",
+  "confidence": 0.9
+}

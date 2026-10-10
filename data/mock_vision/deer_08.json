@@ -1,0 +1,13 @@
+{
+  "subject": "white-tailed deer",
+  "category": "animal",
+  "attributes": [
+    "antlers",
+    "buck",
+    "golden hour",
+    "grassland",
+    "backlit"
+  ],
+  "caption": "A white-tailed buck with branching antlers stands in a sunlit field, backlit by golden evening light.",
+  "confidence": 0.95
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "brown bear",
+  "category": "animal",
+  "attributes": [
+    "wildlife",
+    "backlit",
+    "large",
+    "walking",
+    "furry",
+    "outdoors"
+  ],
+  "caption": "A large brown bear walks across a grassy field illuminated by strong rim lighting against a dark forest background.",
+  "confidence": 0.98
+}

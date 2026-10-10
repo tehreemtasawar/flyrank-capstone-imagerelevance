@@ -1,0 +1,13 @@
+{
+  "subject": "pug",
+  "category": "animal",
+  "attributes": [
+    "black fur",
+    "pet",
+    "wearing jacket",
+    "portrait",
+    "costume"
+  ],
+  "caption": "A black pug wearing a denim jacket stares wide-eyed directly at the camera against a plain backdrop.",
+  "confidence": 0.85
+}

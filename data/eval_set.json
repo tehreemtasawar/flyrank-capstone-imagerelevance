@@ -1,0 +1,271 @@
+[
+  {
+    "post_title": "How Red Foxes Survive Deep Snow Winters",
+    "kind": "specific",
+    "correct_image_filename": "fox_03.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Fox Parents and Their Kits",
+    "kind": "specific",
+    "correct_image_filename": "fox_07.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Reading a Fox's Face: Whiskers, Eyes and Ears",
+    "kind": "specific",
+    "correct_image_filename": "fox_04.jpg",
+    "also_acceptable": [
+      "fox_08.jpg"
+    ],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Inside the Pack: How Wolves Howl Together",
+    "kind": "specific",
+    "correct_image_filename": "wolf_03.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Why Wolves Snarl: Reading Warning Signals",
+    "kind": "specific",
+    "correct_image_filename": "wolf_07.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Gray Wolves on the Move in Snowy Forests",
+    "kind": "specific",
+    "correct_image_filename": "wolf_02.jpg",
+    "also_acceptable": [
+      "wolf_04.jpg"
+    ],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Training a Border Collie: Energy, Focus and Agility",
+    "kind": "specific",
+    "correct_image_filename": "dog_05.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Raising a Golden Retriever Puppy",
+    "kind": "specific",
+    "correct_image_filename": "dog_06.jpg",
+    "also_acceptable": [
+      "dog_01.jpg"
+    ],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "A Dog Owner's Guide to Beach Days",
+    "kind": "specific",
+    "correct_image_filename": "dog_08.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Meet the Jack Russell Terrier",
+    "kind": "specific",
+    "correct_image_filename": "dog_07.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Living With a Siberian Husky",
+    "kind": "specific",
+    "correct_image_filename": "dog_09.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Dressing Up Your Pug: Fun Pet Fashion",
+    "kind": "specific",
+    "correct_image_filename": "dog_04.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "A Polar Bear Mother and Her Cub",
+    "kind": "specific",
+    "correct_image_filename": "bear_03.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "bear"
+  },
+  {
+    "post_title": "What a Bear's Roar Really Means",
+    "kind": "specific",
+    "correct_image_filename": "bear_04.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "bear"
+  },
+  {
+    "post_title": "Black Bears and Spring Meadows",
+    "kind": "specific",
+    "correct_image_filename": "bear_02.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "bear"
+  },
+  {
+    "post_title": "Red Deer Stags and the Autumn Rut",
+    "kind": "specific",
+    "correct_image_filename": "deer_02.jpg",
+    "also_acceptable": [
+      "deer_04.jpg"
+    ],
+    "expected_prefix": "deer"
+  },
+  {
+    "post_title": "A Fawn's First Summer in the Meadow",
+    "kind": "specific",
+    "correct_image_filename": "deer_06.jpg",
+    "also_acceptable": [
+      "deer_07.jpg"
+    ],
+    "expected_prefix": "deer"
+  },
+  {
+    "post_title": "Elk of the Rocky Mountains",
+    "kind": "specific",
+    "correct_image_filename": "deer_03.jpg",
+    "also_acceptable": [],
+    "expected_prefix": "deer"
+  },
+  {
+    "post_title": "The Secret Life of Red Foxes",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Red Fox Breeding Season Explained",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Understanding Wolf Pack Dynamics",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Where Do Wolves Live Today?",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Why Dogs Make Great Companions",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Training Tips for a New Dog",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "dog"
+  },
+  {
+    "post_title": "Bears in the Wild: A Field Guide",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "bear"
+  },
+  {
+    "post_title": "Brown Bear Hibernation Facts",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "bear"
+  },
+  {
+    "post_title": "The Graceful White-Tailed Deer",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "deer"
+  },
+  {
+    "post_title": "Deer Grazing Patterns in Autumn",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "deer"
+  },
+  {
+    "post_title": "The Biology of Vulpes vulpes",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "fox"
+  },
+  {
+    "post_title": "Canis lupus: Ecology and Conservation",
+    "kind": "concept",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": "wolf"
+  },
+  {
+    "post_title": "Best Programming Languages in 2026",
+    "kind": "no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "How to Structure a FastAPI Project",
+    "kind": "no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "Easy Weeknight Pasta Recipes",
+    "kind": "no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "A Beginner's Guide to Index Fund Investing",
+    "kind": "no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "Choosing the Right Running Shoes",
+    "kind": "no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "Why Giant Pandas Eat Bamboo",
+    "kind": "hard_no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  },
+  {
+    "post_title": "Caring for Your First Pet Cat",
+    "kind": "hard_no_match",
+    "correct_image_filename": null,
+    "also_acceptable": [],
+    "expected_prefix": null
+  }
+]

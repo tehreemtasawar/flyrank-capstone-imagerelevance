@@ -1,0 +1,13 @@
+{
+  "subject": "domestic dog",
+  "category": "animal",
+  "attributes": [
+    "reddish-brown coat",
+    "running",
+    "shallow surf",
+    "beach",
+    "sunset sky"
+  ],
+  "caption": "A reddish-brown dog runs joyfully through shallow sea foam on a beach at dusk, ears flying.",
+  "confidence": 0.95
+}

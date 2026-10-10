@@ -1,0 +1,13 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "dark fur",
+    "amber eyes",
+    "looking down",
+    "shadows",
+    "intense stare"
+  ],
+  "caption": "A dark-furred gray wolf looks down intensely toward the camera, its amber eyes glowing against deep shadows.",
+  "confidence": 0.9
+}

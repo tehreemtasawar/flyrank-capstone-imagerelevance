@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "orange fur",
+    "grassland",
+    "sitting",
+    "golden hour",
+    "backlit"
+  ],
+  "caption": "A red fox sits in green grass, backlit by warm golden evening light, looking back over its shoulder.",
+  "confidence": 0.95
+}

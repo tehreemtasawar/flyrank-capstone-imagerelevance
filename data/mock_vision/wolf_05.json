@@ -1,0 +1,13 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "pale fur",
+    "amber eyes",
+    "close-up",
+    "portrait",
+    "dark background"
+  ],
+  "caption": "A close-up portrait of a pale gray wolf with striking amber eyes against a dark background.",
+  "confidence": 0.93
+}

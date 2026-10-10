@@ -1,0 +1,13 @@
+{
+  "subject": "red fox",
+  "category": "animal",
+  "attributes": [
+    "close-up",
+    "eye detail",
+    "whiskers",
+    "orange fur",
+    "white muzzle"
+  ],
+  "caption": "An extreme close-up of a red fox's face showing its eye, whiskers, and the orange-to-white fur transition.",
+  "confidence": 0.9
+}
